@@ -4,7 +4,7 @@ class Cat
   # code goes here
   def initialized(name)
     @name = name
-    @mood = "nervous"
+    @mood = mood
   end
 
 end
